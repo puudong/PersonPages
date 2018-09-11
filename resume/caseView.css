@@ -132,14 +132,14 @@ a:hover {
     width:868px;
     height:189px;
     background:#313e4e;
-    padding:25px 68px 0 32px;
+    padding:20px 68px 0 32px;
     position: relative;
 }
 #template203_header .template203_headleft{
     overflow:hidden;
     float:left;
     width:140px;
-    height:140px;
+    height:160px;
 }
 #template203_header .template203_headright{
     padding-left:147px;
